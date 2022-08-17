@@ -1,0 +1,26 @@
+DESAFIO QUALITY ASSURANCE
+
+Este documento tem como objetivo explicar os processos de testes desse projeto.
+
+1 - Tipos de testes
+O projeto foi realizado utilizado testes automatizados e manuais.
+
+
+2 - Desenvolvimento de cenários
+Foram desenvolvidos 9 cenários no projeto em escrita BDD, sendo os 3 primeiros cenários de forma automatizada, utilizando linguagem Ruby com as ferramentas Selenium e Cucumber. Os demais cenários foram realizados de forma manual.
+
+
+3 - Evidências
+Desenvolvi um documento de Homologação com as evidências de todos os cenários criados, com escrita, vídeos e imagem das evidências.
+O documento de homologação está disponível em arquivo PDF e estará dispoonível no repósitório com todas as permissões necessárias para visualização.
+
+
+4 - Rodar testes
+Para que os testes automatizados funcionem, é necessário ter instalado os programas: Ruby/Selenium/Gems/Cucumber/ChromeDriver na sua máquina. Por tal motivo deixei os cenários evidênciados em vídeo disponível no PDF em "Evidêcia: Vídeo"
+
+
+5 - Validação
+De 9 cenários criados, 1 cenário apontou falha; o cenário 9 evidencia um problema de autenticacao ao criar um cadastro através da Rede Social "GitHub".
+Os demais cenários foram validados corretamente.
+
+
